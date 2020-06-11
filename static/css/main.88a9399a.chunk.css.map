@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,SACE,cAAe,CACf,yBAA0B","file":"main.88a9399a.chunk.css","sourcesContent":[".pointer{\n  cursor: pointer;\n  text-decoration: underline;\n}\n"]}
